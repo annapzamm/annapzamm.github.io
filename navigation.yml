@@ -1,0 +1,9 @@
+main:
+  - title: "Education & experience"
+    url: /edu/
+  - title: "Scientific publications"
+    url: /pubs/
+  - title: "Grants & awards" 
+    url: /funding/
+  - title: "Upcoming"
+    url: /upcoming/
