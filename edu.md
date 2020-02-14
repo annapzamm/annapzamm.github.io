@@ -9,7 +9,7 @@ permalink: /edu/
 
 <p><strong> Marie Curie Individual Research Fellow </strong>(2020-22) <br/>
 [Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/>
-Department of Cognitive Science </p>
+Department of Cognitive Science, Central European University Vienna </p>
   
 <p><strong>Postdoctoral Research Fellow </strong>(2018-20)<br />Central European University, Budapest, HU EU<br />Social Mind and Body Laboratory<br />Department of Cognitive Science<br /><a href="https://socialmind.ceu.edu/somby">https://socialmind.ceu.edu/somby</a></p>
 <p><strong><span style="color: #008080;">EDUCATION </span></strong></p>
