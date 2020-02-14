@@ -15,15 +15,19 @@ Department of Cognitive Science <br/>
 
 
 <strong> Postdoctoral Research Fellow </strong>(2018-20) <br/>
-[Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/>
-Department of Cognitive Science<br/>
-Central European University, Budapest HU <br/><br/>
+Central European University, Budapest, HU <br/>
+Department of Cognitive Science <br/>
+[Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/><br/>
   
   
-
 <p><strong><span style="color: #008080;">EDUCATION </span></strong></p>
 
-<p><strong>PhD in Experimental Psychology </strong>(2018)<br />McGill University, Montréal, QC CA<br />Sequence Production Laboratory<br />Department of Psychology<br /><a href="https://www.mcgill.ca/spl/">https://www.mcgill.ca/spl/</a></p>
+<strong>PhD in Experimental Psychology </strong>(2018)<br />
+McGill University, Montréal, QC CA<br />
+Department of Psychology<br />
+[Sequence Production Laboratory](https://www.mcgill.ca/spl/)<br /><br />
+
+
 
 <p><strong>Bachelor's, Psychology &amp; Music </strong>(2010)<br />Indiana University &amp; Jacobs School of Music, Bloomington, IN USA<br /><a href="https://music.indiana.edu/">https://music.indiana.edu/</a></p>
 
