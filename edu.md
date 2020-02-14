@@ -7,11 +7,18 @@ permalink: /edu/
 ---
 <p><strong><span style="color: #008080;">POSTDOCTORAL EMPLOYMENT</span></strong></p>
 
-<p><strong> Marie Curie Individual Research Fellow </strong>(2020-22) <br/>
+<strong> Marie Curie Individual Research Fellow </strong>(2020-22) <br/>
 [Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/>
-Department of Cognitive Science, Central European University Vienna </p>
+Department of Cognitive Science<br/>
+Central European University, Vienna AT <br/><br/>
+
+<strong> Postdoctoral Research Fellow </strong>(2018-20) <br/>
+[Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/>
+Department of Cognitive Science<br/>
+Central European University, Budapest HU <br/><br/>
   
-<p><strong>Postdoctoral Research Fellow </strong>(2018-20)<br />Central European University, Budapest, HU EU<br />Social Mind and Body Laboratory<br />Department of Cognitive Science<br /><a href="https://socialmind.ceu.edu/somby">https://socialmind.ceu.edu/somby</a></p>
+  
+
 <p><strong><span style="color: #008080;">EDUCATION </span></strong></p>
 
 <p><strong>PhD in Experimental Psychology </strong>(2018)<br />McGill University, Montréal, QC CA<br />Sequence Production Laboratory<br />Department of Psychology<br /><a href="https://www.mcgill.ca/spl/">https://www.mcgill.ca/spl/</a></p>
