@@ -8,9 +8,9 @@ permalink: /edu/
 <p><strong><span style="color: #008080;">POSTDOCTORAL EMPLOYMENT</span></strong></p>
 
 <strong> Marie Curie Individual Research Fellow </strong>(2020-22) <br/>
-Central European University, Vienna AT <br/><br/>
-Department of Cognitive Science<br/>
-[Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/>
+Central European University, Vienna AT <br/>
+Department of Cognitive Science <br/>
+[Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/><br/>
 
 
 
