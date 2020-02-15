@@ -5,7 +5,7 @@ description: Anna Zamm | Postdoctoral Research Fellow | Dept. of Cognitive Scien
 permalink: /upcoming/
 ---
 <p><strong><span style="color: #008080;">PROJECTS</span></strong></p>
-<strong> Marie Curie Individual Fellowship </strong>, [https://www.ceu.edu/jalproject](https://www.ceu.edu/jalproject) <br/>
+<strong> [Marie Curie Individual Fellowship Projects](https://www.ceu.edu/jalproject)</strong><br/>
 Social Mind & Body Lab, CEU Vienna, Sep 2020 - Aug 2022 <br />
 
 <p><strong><span style="color: #008080;">SELECT PRESENTATIONS</span></strong></p>
