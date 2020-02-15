@@ -49,5 +49,5 @@ Harvard Medical School, Boston, MA, USA<br />
 <p><strong><span style="color: #008080;">ADDITIONAL MUSICAL TRAINING</span></strong></p>
 
 <strong>Precollege studies in flute performance </strong><br />
-[Manhattan School of Music Precollege Division](https://www.msmnyc.edu/programs/precollege/), NYC, NY, USA<br />
+[Manhattan School of Music Precollege Division](https://www.msmnyc.edu/programs/precollege/admissions/), NYC, NY, USA<br />
 
