@@ -22,7 +22,7 @@ Central European University, Budapest, HU, EU <br/>
   
 <p><strong><span style="color: #008080;">EDUCATION </span></strong></p>
 
-<strong>PhD in Experimental Psychology </strong>(2018)<br />
+<strong>PhD, Experimental Psychology </strong>(2018)<br />
 [Sequence Production Laboratory](https://www.mcgill.ca/spl/)<br />
 McGill University, Montréal, QC, CA<br />
 
