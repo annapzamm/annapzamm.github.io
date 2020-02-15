@@ -42,8 +42,8 @@ University of Oldenburg, Oldenburg, DE EU<br />
 <em>Training area: </em>EEG methods<br /><br />
 
 <strong>Full-time Research Assistant </strong>(2010-12)<br />
-Harvard Medical School, Boston, MA USA<br />
 [Music and Neuroimaging Laboratory](https://www.musicianbrain.com/#index">https://www.musicianbrain.com/#index)<br />
+Harvard Medical School, Boston, MA USA<br />
 <em>Training area:</em> fMRI and DTI methods</br></br>
 
 <p><strong><span style="color: #008080;">ADDITIONAL MUSICAL TRAINING</span></strong></p>
