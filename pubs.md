@@ -4,12 +4,14 @@ layout: default
 description: Anna Zamm | Postdoctoral Research Fellow | Dept. of Cognitive Science, CEU
 permalink: /pubs/
 ---
+<center>
 <ul>
-  <p style="text-align:left">
+  <p style="text-align:center">
 <li><a href="https://scholar.google.ca/citations?user=7A7_KMUAAAAJ&amp;hl=en">Google Scholar</a></li>
 <li><a href="https://www.researchgate.net/profile/Anna_Zamm">ResearchGate</a></li>
 </p>
 </ul>
+  </center>
 
 <p><span style="color: #008080;"><strong>2019</strong></span></p>
 <p>Scheurich, R., Demos, D., <strong>Zamm, A.</strong>, Mathias, B., Palmer, C. (2019). Capturing inter- and intra-brain dynamics with Recurrence Quantification Analysis. <em>Proceedings of the 41<sup>st</sup> Annual Conference of the Cognitive Science Society.</em></p>
