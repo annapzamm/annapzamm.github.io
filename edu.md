@@ -15,7 +15,7 @@ Department of Cognitive Science <br/>
 
 
 <strong> Postdoctoral Research Fellow </strong>(2018-20) <br/>
-Central European University, Budapest, HU <br/>
+Central European University, Budapest HU <br/>
 Department of Cognitive Science <br/>
 [Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/><br/>
   
@@ -25,19 +25,32 @@ Department of Cognitive Science <br/>
 <strong>PhD in Experimental Psychology </strong>(2018)<br />
 McGill University, Montréal, QC CA<br />
 Department of Psychology<br />
-[Sequence Production Laboratory](https://www.mcgill.ca/spl/)<br /><br />
+[Sequence Production Laboratory](https://www.mcgill.ca/spl/)<br /><br /><br />
 
 
 
-<p><strong>Bachelor's, Psychology &amp; Music </strong>(2010)<br />Indiana University &amp; Jacobs School of Music, Bloomington, IN USA<br /><a href="https://music.indiana.edu/">https://music.indiana.edu/</a></p>
+<strong>Bachelor's, Psychology &amp; Music </strong>(2010)<br />
+[Indiana University](https://psych.indiana.edu/) &amp; 
+[Jacobs School of Music](https://music.indiana.edu/), Bloomington, IN USA<br /><br />
 
-<p><strong>High School Diploma </strong>(2006)<br />Stuyesant High School, NYC, New York USA<br /><a href="https://en.wikipedia.org/wiki/Stuyvesant_High_School">https://en.wikipedia.org/wiki/Stuyvesant_High_School</a></p>
+<strong>High School Diploma </strong>(2006)<br />
+[Stuyesant High School](https://en.wikipedia.org/wiki/Stuyvesant_High_School), NYC, New York USA<br /><br />
+[New York City Specialized High School])https://en.wikipedia.org/wiki/Specialized_High_Schools_Admissions_Test#Admission)<br /><br />
 
 <p><strong><span style="color: #008080;">SELECT ADDITIONAL RESEARCH TRAINING</span></strong></p>
-<p><strong>PhD Mobility Fellow in Auditory Cognitive Neuroscience </strong>(2014-15)<br />University of Oldenburg, Oldenburg, DE EU<br />Neuropsychology Lab<br />Department of Psychology<br /><a href="https://uol.de/neuropsychologie">https://uol.de/neuropsychologie</a><br /><em>Training area: </em>EEG methods</p>
 
-<p><strong>Full-time Research Assistant </strong>(2010-12)<br />Harvard Medical School, Boston, MA USA<br />Music and Neuroimaging Laboratory<br />Department of Neurology<br /><a href="https://www.musicianbrain.com/#index">https://www.musicianbrain.com/#index</a><br /><em>Training area:</em> fMRI and DTI methods</p>
+<strong>PhD Mobility Fellow in Auditory Cognitive Neuroscience </strong>(2014-15)<br />
+University of Oldenburg, Oldenburg, DE EU<br />
+[Neuropsychology Lab](https://uol.de/neuropsychologie">https://uol.de/neuropsychologie)<br />Department of Psychology<br />
+<em>Training area: </em>EEG methods<br /><br />
+
+<strong>Full-time Research Assistant </strong>(2010-12)<br />
+Harvard Medical School, Boston, MA USA<br />
+[Music and Neuroimaging Laboratory](https://www.musicianbrain.com/#index">https://www.musicianbrain.com/#index)<br />Department of Neurology<br />
+<em>Training area:</em> fMRI and DTI methods</br></br>
 
 <p><strong><span style="color: #008080;">ADDITIONAL MUSICAL TRAINING</span></strong></p>
-<p><strong>Precollege studies in flute performance </strong><br />Manhattan School of Music Precollege Division, NYC, NY USA<br /><a href="https://www.msmnyc.edu/programs/precollege/">https://www.msmnyc.edu/programs/precollege/</a></p>
+
+<strong>Precollege studies in flute performance </strong><br />
+[Manhattan School of Music Precollege Division](https://www.msmnyc.edu/programs/precollege/), NYC, NY USA<br /><a 
 
