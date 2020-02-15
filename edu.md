@@ -35,7 +35,7 @@ Department of Psychology<br />
 
 <strong>High School Diploma </strong>(2006)<br />
 [Stuyesant High School](https://en.wikipedia.org/wiki/Stuyvesant_High_School), NYC, New York USA<br /><br />
-[New York City Specialized High School])https://en.wikipedia.org/wiki/Specialized_High_Schools_Admissions_Test#Admission)<br /><br />
+[New York City Specialized High School](https://en.wikipedia.org/wiki/Specialized_High_Schools_Admissions_Test#Admission)<br /><br />
 
 <p><strong><span style="color: #008080;">SELECT ADDITIONAL RESEARCH TRAINING</span></strong></p>
 
@@ -52,5 +52,5 @@ Harvard Medical School, Boston, MA USA<br />
 <p><strong><span style="color: #008080;">ADDITIONAL MUSICAL TRAINING</span></strong></p>
 
 <strong>Precollege studies in flute performance </strong><br />
-[Manhattan School of Music Precollege Division](https://www.msmnyc.edu/programs/precollege/), NYC, NY USA<br /><a 
+[Manhattan School of Music Precollege Division](https://www.msmnyc.edu/programs/precollege/), NYC, NY USA<br />
 
