@@ -39,7 +39,7 @@ McGill University, Montréal, QC, CA<br />
 <strong>PhD Mobility Fellow in Auditory Cognitive Neuroscience </strong>(2014-15)<br />
 [Neuropsychology Lab](https://uol.de/neuropsychologie">https://uol.de/neuropsychologie)<br />
 University of Oldenburg, Oldenburg, DE, EU<br />
-<em>Training area: </em>EEG methods<br /><br />
+<em>Training area: </em>EEG methods<br />
 
 <strong>Full-time Research Assistant </strong>(2010-12)<br />
 [Music and Neuroimaging Laboratory](https://www.musicianbrain.com/#index">https://www.musicianbrain.com/#index)<br />
