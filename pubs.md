@@ -4,15 +4,16 @@ layout: default
 description: Anna Zamm | Postdoctoral Research Fellow | Dept. of Cognitive Science, CEU
 permalink: /pubs/
 ---
-<center>
+
+<p><span style="color: #008080;"><strong>EXTERNAL PUBLICATION PROFILES</strong></span></p>
 <ul>
   <p style="text-align:center">
 <li><a href="https://scholar.google.ca/citations?user=7A7_KMUAAAAJ&amp;hl=en">Google Scholar</a></li>
 <li><a href="https://www.researchgate.net/profile/Anna_Zamm">ResearchGate</a></li>
 </p>
 </ul>
-  </center>
 
+<p><span style="color: #008080;"><strong>PUBLICATION LIST</strong></span></p>
 <p><span style="color: #008080;"><strong>2019</strong></span></p>
 <p>Scheurich, R., Demos, D., <strong>Zamm, A.</strong>, Mathias, B., Palmer, C. (2019). Capturing inter- and intra-brain dynamics with Recurrence Quantification Analysis. <em>Proceedings of the 41<sup>st</sup> Annual Conference of the Cognitive Science Society.</em></p>
 <p><strong>Zamm, A.</strong>, Palmer, C., Bauer, A.-K. R., Bleichner, M.G., Demos, A.P., &amp; Debener, S. (2019). Synchronizing MIDI and wireless EEG measurements during natural piano performance.<em> </em><em>Brain Research</em>. DOI 10/1016/j.brainres.2017.07.001.</p>
