@@ -5,7 +5,7 @@ description: Anna Zamm | Postdoctoral Research Fellow | Dept. of Cognitive Scien
 permalink: /pubs/
 ---
 <ul>
-  <p style="text-align:center">
+  <p style="text-align:left">
 <li><a href="https://scholar.google.ca/citations?user=7A7_KMUAAAAJ&amp;hl=en">Google Scholar</a></li>
 <li><a href="https://www.researchgate.net/profile/Anna_Zamm">ResearchGate</a></li>
 </p>
