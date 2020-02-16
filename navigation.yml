@@ -7,3 +7,5 @@ main:
     url: /funding/
   - title: "Upcoming"
     url: /upcoming/
+  - title: "Collaborators"
+    url: /collab/
