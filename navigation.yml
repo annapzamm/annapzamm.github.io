@@ -1,7 +1,7 @@
 main:
   - title: "Education & experience"
     url: /edu/
-  - title: "Scientific publications"
+  - title: "Publications"
     url: /pubs/
   - title: "Grants & awards" 
     url: /funding/
