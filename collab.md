@@ -5,7 +5,7 @@ description: Anna Zamm | Postdoctoral Research Fellow | Dept. of Cognitive Scien
 permalink: /collab/
 ---
 
-<p><span style="color: #008080;"><strong> PRESENT AND PAST COLLABORATORS </strong></span></p>
+<span style="color: #008080;"><strong> PRESENT AND PAST COLLABORATORS </strong></span></br><br/>
 [Dr. Anna-Katharina Bauer](https://www.psy.ox.ac.uk/team/anna-katharina-matke-bauer), University of Oxford<br/>
 [Dr. Martin Bleichner](https://uol.de/psychologie/neurophysiologie-des-alltags-emmy-noether-gruppe/team/dr-martin-bleichner), University of Oldenburg<br/>
 [Prof. Stefan Debener](https://uol.de/neuropsychologie/team/prof-dr-stefan-debener), University of Oldenburg <br/>
