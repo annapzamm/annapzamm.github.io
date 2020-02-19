@@ -12,7 +12,7 @@ Social Mind & Body Lab, CEU Vienna, Sep 2020 - Aug 2022 <br />
 <strong>[The Neurosciences & Music - VII Conference](https://www.fondazione-mariani.org/en/neuromusic7/)</strong><br/>
 Aarhus University, Aarhus, Denmark, June 19-22 2020 <br />
   <em>Presentation title (poster):</em> The Sound of Silence: An EEG study of how musicians coordinate <br/> 
-  expressive silences in individual and joint music performance <br/><br/>
+  expressive silences in individual and joint music performance <br/>
   
  <strong>[European Society for Cognitive & Affective Neuroscience Conference](http://escan2020.eu/)</strong><br/>
 Central European University, Budapest, HU, July 1-4 2020 <br />
