@@ -13,4 +13,10 @@ Social Mind & Body Lab, CEU Vienna, Sep 2020 - Aug 2022 <br />
 Aarhus University, Aarhus, Denmark, June 19-22 2020 <br />
   <em>Presentation title (poster):</em> The Sound of Silence: An EEG study of how musicians coordinate <br/> 
   expressive silences in individual and joint music performance <br/> 
+  
+ <strong>[European Society for Cognitive & Affective Neuroscience Conference](http://escan2020.eu/)</strong><br/>
+Central European University, Budapest, HU, July 1-4 2020 <br />
+  <em>Presentation title (poster):</em> Interpersonal coordination of expressive silence <br/> 
+  in musical interaction: A dual-brain EEG study <br/>  
+
 
