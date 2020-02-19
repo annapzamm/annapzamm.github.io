@@ -15,7 +15,7 @@ Aarhus University, Aarhus, Denmark, June 19-22 2020 <br />
   coordinate expressive silences in individual and joint music performance <br/><br/>
   
  <strong>[European Society for Cognitive & Affective Neuroscience Conference](http://escan2020.eu/)</strong><br/>
-Central European University, Budapest, HU, July 1-4 2020 <br />
+Central European University, Budapest, HU, July 1-4 2020 <br/>
 <em>Accepted symposium:</em> The neural mechanisms underpinning joint action<br/>
 <em>Presentation title (talk):</em> Interpersonal coordination of expressive silence<br/>
 in musical interaction: A dual-brain EEG study <br/>  
