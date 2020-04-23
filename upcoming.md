@@ -9,7 +9,7 @@ permalink: /upcoming/
 Social Mind & Body Lab, CEU Vienna, Sep 2020 - Aug 2022 <br />
 
 <p><strong><span style="color: #008080;">SELECT PRESENTATIONS</span></strong></p>
-<strong>[Cognitive Neuroscience Society Conference](https://www.cogneurosociety.org/annual-meeting/)</strong><br/>
+<strong>[Cognitive Neuroscience Society - Conference](https://www.cogneurosociety.org/annual-meeting/)</strong><br/>
 Virtual Meeting, May 2-5 2020 <br />
   <em>Presentation title (poster):</em> Silence in the brain: An EEG study of expressive silence <br/>
   in individual and joint musical action <br/><br/>
