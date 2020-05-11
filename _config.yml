@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Postdoctoral Research Fellow | Department of Cognitive Science | Central European University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000"
-twitter_username: @annapzamm
+twitter_username: annapzamm
 github_username:  jekyll
 markdown: kramdown
 
