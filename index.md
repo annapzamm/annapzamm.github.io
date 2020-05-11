@@ -8,3 +8,8 @@ My research broadly addresses what factors allow humans to achieve the remarkabl
 
 In Sep 2020 I will start a [Marie Curie Fellowship](https://www.ceu.edu/jalproject) with [Prof. Natalie Sebanz](https://people.ceu.edu/natalie_sebanz) at the [new CEU location in Vienna](https://www.ceu.edu/article/2019-03-22/central-european-university-announces-new-vienna-campus), and external collaborator [Prof. Stefan Debener](https://uol.de/neuropsychologie/team/prof-dr-stefan-debener) at the [University of Oldenburg (DE)](https://uol.de/). 
 
+<a class="twitter-follow-button"
+  href="https://twitter.com/annapzamm"
+  data-size="large">
+Follow @annapzamm</a>
+
