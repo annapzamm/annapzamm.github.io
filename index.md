@@ -11,4 +11,4 @@ In Sep 2020 I will start a [Marie Curie Fellowship](https://www.ceu.edu/jalproje
 <center>
 <a href="https://twitter.com/annapzamm" target="_blank">  <img src="twittericon.png" style="width:42px;height:42px;border:0;"></a>
 <a href="mailto: azamm@ceu.edu" target="_blank">  <img src="emailicon.png" style="width:42px;height:42px;border:0;"></a>
-<\center>
+</center>
