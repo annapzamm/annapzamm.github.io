@@ -14,6 +14,9 @@ permalink: /pubs/
 </ul>
 
 <p><span style="color: #008080;"><strong>PUBLICATION LIST</strong></span></p>
+<p><span style="color: #008080;"><strong>2020</strong></span></p>
+<p> Mathias, B.*, <strong>Zamm, A.*</strong>, Gianferrara, P., Ross, B., Palmer, C. (accepted). Rhythm complexity modulates behavioral and neural dynamics during auditory-motor synchronization.<em>  Journal of Cognitive Neuroscience</em>. *Denotes joint first authors.
+</p>
 <p><span style="color: #008080;"><strong>2019</strong></span></p>
 <p>Scheurich, R., Demos, D., <strong>Zamm, A.</strong>, Mathias, B., Palmer, C. (2019). Capturing inter- and intra-brain dynamics with Recurrence Quantification Analysis. <em>Proceedings of the 41<sup>st</sup> Annual Conference of the Cognitive Science Society.</em></p>
 <p><strong>Zamm, A.</strong>, Palmer, C., Bauer, A.-K. R., Bleichner, M.G., Demos, A.P., &amp; Debener, S. (2019). Synchronizing MIDI and wireless EEG measurements during natural piano performance.<em> </em><em>Brain Research</em>. DOI 10/1016/j.brainres.2017.07.001.</p>
