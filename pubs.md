@@ -40,7 +40,7 @@ permalink: /pubs/
 <p> </p>
 
 <p><span style="color: #008080;"><strong>NON-ACADEMIC PUBLICATIONS </strong></span></p>
-<li><a href="https://theconversation.com/music-making-brings-us-together-during-the-coronavirus-pandemic-137147">Music-making brings us together during the coronavirus pandemic</a></li>
+<a href="https://theconversation.com/music-making-brings-us-together-during-the-coronavirus-pandemic-137147">Music-making brings us together during the coronavirus pandemic</a>
 
 
 
