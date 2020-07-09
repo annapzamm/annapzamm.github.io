@@ -32,7 +32,6 @@ McGill University, Montréal, QC, CA<br />
 
 <strong>High School Diploma </strong>(2006)<br />
 [Stuyesant High School](https://en.wikipedia.org/wiki/Stuyvesant_High_School), NYC, New York, USA<br />
-[New York City Specialized High School](https://en.wikipedia.org/wiki/Specialized_High_Schools_Admissions_Test#Admission)<br />
 
 <p><strong><span style="color: #008080;">SELECT ADDITIONAL RESEARCH TRAINING</span></strong></p>
 
