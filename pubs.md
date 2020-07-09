@@ -13,7 +13,7 @@ permalink: /pubs/
 </p>
 </ul>
 
-<p><span style="color: #008080;"><strong>PUBLICATION LIST</strong></span></p>
+<p><span style="color: #008080;"><strong>ACADEMIC PUBLICATION LIST</strong></span></p>
 <p><span style="color: #008080;"><strong>2020</strong></span></p>
 <p> Mathias, B.*, <strong>Zamm, A.*</strong>, Gianferrara, P., Ross, B., Palmer, C. (accepted). Rhythm complexity modulates behavioral and neural dynamics during auditory-motor synchronization.<em>  Journal of Cognitive Neuroscience</em>. 
  <p>*Denotes joint first authors.</p>
@@ -38,3 +38,9 @@ permalink: /pubs/
 <p>Loui, P., <strong>Zamm, A</strong>., Schlaug, G. (2012). Enhanced functional networks in absolute pitch.  <em>NeuroImage</em> 63, 632-640.  DOI  <a href="http://dx.doi.org/10.1016%2Fj.neuroimage.2012.07.030">10.1016/j.neuroimage.2012.07.030</a>.</p>
 <p>Loui, P., <strong>Zamm, A.,</strong> Schlaug, G. (2012).  Absolute pitch and synesthesia: Two sides of the same Coin? <em>Proceedings of the 12<sup>th</sup> International Conference on Music Perception and Cognition</em>, Thessaloniki, Greece.</p>
 <p> </p>
+
+<p><span style="color: #008080;"><strong>NON-ACADEMIC PUBLICATIONS </strong></span></p>
+<li><a href="https://theconversation.com/music-making-brings-us-together-during-the-coronavirus-pandemic-137147">Music-making brings us together during the coronavirus pandemic</a></li>
+
+
+
