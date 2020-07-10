@@ -15,7 +15,7 @@ permalink: /pubs/
 
 <p><span style="color: #008080;"><strong>ACADEMIC PUBLICATION LIST</strong></span></p>
 <p><span style="color: #008080;"><strong>2020</strong></span></p>
-<p> Mathias, B.*, <strong>Zamm, A.*</strong>, Gianferrara, P., Ross, B., Palmer, C. (accepted). Rhythm complexity modulates behavioral and neural dynamics during auditory-motor synchronization.<em>  Journal of Cognitive Neuroscience</em>. 
+<p> Mathias, B.*, <strong>Zamm, A.*</strong>, Gianferrara, P., Ross, B., Palmer, C. (accepted). Rhythm complexity modulates behavioral and neural dynamics during auditory-motor synchronization.<em>  Journal of Cognitive Neuroscience</em> DOI: 10.1162/jocn_a_01601. 
  <p>*Denotes joint first authors.</p>
 </p>
 <p><span style="color: #008080;"><strong>2019</strong></span></p>
