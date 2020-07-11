@@ -15,7 +15,7 @@ permalink: /pubs/
 
 <p><span style="color: #008080;"><strong>ACADEMIC PUBLICATION LIST</strong></span></p>
 <p><span style="color: #008080;"><strong>2020</strong></span></p>
-<p><strong>Zamm, A.</strong>, Debener, S., Konvalinka, I., Sebanz, N., Knoblich, G. (accepted). The Sound of Silence: An EEG study of how musicians time pauses in individual and joint music performance.  Social Cognitive and Affective Neuroscience. </p>
+<p><strong>Zamm, A.</strong>, Debener, S., Konvalinka, I., Sebanz, N., Knoblich, G. (accepted). The Sound of Silence: An EEG study of how musicians time pauses in individual and joint music performance.  <em>Social Cognitive and Affective Neuroscience</em>. </p>
 <p> Mathias, B.*, <strong>Zamm, A.*</strong>, Gianferrara, P., Ross, B., Palmer, C. (in press). Rhythm complexity modulates behavioral and neural dynamics during auditory-motor synchronization.<em>  Journal of Cognitive Neuroscience</em>. DOI: 10.1162/jocn_a_01601. 
  <p>*Denotes joint first authors.</p>
 </p>
