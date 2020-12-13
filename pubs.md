@@ -15,7 +15,7 @@ permalink: /pubs/
 
 <p><span style="color: #008080;"><strong>ACADEMIC PUBLICATION LIST</strong></span></p>
 <p><span style="color: #008080;"><strong>2020</strong></span></p>
-<p>, Grahn, J., Matke-Bauer, A.K.R.,<strong>Zamm, A.</strong> (accepted). Is neural entrainment to rhythms the basis of social bonding through music?.  [Commentary on "Music as a coevolved system for social bonding" by Savage et al.]. <em>Behavioral and Brain Sciences</em>. </p>
+<p>Grahn, J., Matke-Bauer, A.K.R., <strong>Zamm, A.</strong> (accepted). Is neural entrainment to rhythms the basis of social bonding through music?  [Commentary on "Music as a coevolved system for social bonding" by Savage et al.] <em>Behavioral and Brain Sciences</em>. </p>
 <p><strong>Zamm, A.</strong>, Debener, S., Konvalinka, I., Sebanz, N., Knoblich, G. (2020). The Sound of Silence: An EEG study of how musicians time pauses in individual and joint music performance.  <em>Social Cognitive and Affective Neuroscience</em>. DOI: https://doi.org/10.1093/scan/nsaa096 </p>
 <p> Mathias, B.*, <strong>Zamm, A.*</strong>, Gianferrara, P., Ross, B., Palmer, C. (2020). Rhythm complexity modulates behavioral and neural dynamics during auditory-motor synchronization.<em>  Journal of Cognitive Neuroscience</em>. DOI: 10.1162/jocn_a_01601. 
  <p>*Denotes joint first authors.</p>
