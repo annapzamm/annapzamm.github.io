@@ -11,4 +11,6 @@ In Sep 2020 I will start a [Marie Curie Fellowship](https://www.ceu.edu/jalproje
 <center>
 <a href="https://twitter.com/annapzamm" target="_blank">  <img src="twittericon.png" style="width:42px;height:42px;border:0;"></a>
 <a href="mailto: zamma@ceu.edu" target="_blank">  <img src="emailicon.png" style="width:42px;height:42px;border:0;"></a>
+  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="anna-zamm-bb8aa1a5"><a class="LI-simple-link" href='https://at.linkedin.com/in/anna-zamm-bb8aa1a5?trk=profile-badge'>Anna Zamm</a></div>
 </center>
