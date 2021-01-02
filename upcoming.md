@@ -1,7 +1,7 @@
 ---
 title: Upcoming
 layout: default
-description: Anna Zamm | Marie Skłodowska-Curie Research Fellow | Dept. of Cognitive Science, CEU
+description: Anna Zamm | Marie Skłodowska-Curie Fellow | Dept. of Cognitive Science, CEU
 permalink: /upcoming/
 ---
 <p><strong><span style="color: #008080;">PROJECTS</span></strong></p>
