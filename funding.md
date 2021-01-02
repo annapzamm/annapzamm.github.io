@@ -1,7 +1,7 @@
 ---
 title: Grants & awards
 layout: default
-description: Anna Zamm |Marie Skłodowska-Curie Fellow | Dept. of Cognitive Science, CEU
+description: Anna Zamm | Marie Skłodowska-Curie Fellow | Dept. of Cognitive Science, CEU
 permalink: /funding/
 ---
 
