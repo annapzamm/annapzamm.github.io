@@ -14,5 +14,5 @@ For information on my current Marie Skłodowska-Curie Research Fellowship projec
 <center>
 <a href="https://twitter.com/annapzamm" target="_blank">  <img src="twittericon.png" style="width:42px;height:42px;border:0;"></a>
 <a href="mailto: zamma@ceu.edu" target="_blank">  <img src="emailicon.png" style="width:42px;height:42px;border:0;"></a>
-<a href="www.linkedin.com/in/anna-zamm-bb8aa1a5"> <img src="linkedinicon.png" style="width:42px;height:42px; border:0;"></a>
+<a href="www.linkedin.com/in/anna-zamm-bb8aa1a5"> <img src="linkedinicon.png" style="width:21px;height:42px; border:0;"></a>
 </center>
