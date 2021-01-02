@@ -1,7 +1,7 @@
 ---
 title: Scientific publications
 layout: default
-description: Anna Zamm | Postdoctoral Research Fellow | Dept. of Cognitive Science, CEU
+description: Anna Zamm | Marie Skłodowska-Curie Fellow | Dept. of Cognitive Science, CEU
 permalink: /pubs/
 ---
 
