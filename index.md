@@ -7,9 +7,7 @@ I am currently a Marie Skłodowska-Curie Cognitive Science Postdoctoral Research
 
 I received my PhD in Experimental Psychology from McGill University, where I worked with [Prof. Caroline Palmer](https://www.mcgill.ca/spl/palmer) in the [Sequence Production Laboratory](https://www.mcgill.ca/spl/).
 
-My research broadly addresses what factors allow humans to achieve the remarkable feat of synchronizing actions with one another in group behaviours such as ensemble music performance. I use a combination of behavioural and electroencephalography (EEG) methods to uncover processes underlying interpersonal synchrony. 
-
-For information on my current Marie Skłodowska-Curie Research Fellowship projects, please see the [project page](https://www.ceu.edu/jalproject). 
+My research broadly addresses what factors allow humans to achieve the remarkable feat of synchronizing actions with one another in group behaviours such as ensemble music performance. I use a combination of behavioural and electroencephalography (EEG) methods to uncover processes underlying interpersonal synchrony. For information on my current Marie Skłodowska-Curie Research Fellowship projects, please see the [project page](https://www.ceu.edu/jalproject). 
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
