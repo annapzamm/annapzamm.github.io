@@ -9,10 +9,9 @@ permalink: /upcoming/
 Social Mind & Body Lab, CEU Vienna, Sep 2020 - Aug 2022 <br />
 
 <p><strong><span style="color: #008080;">SELECT PRESENTATIONS</span></strong></p>
-<strong>[Cognitive Neuroscience Society - Conference](https://www.cogneurosociety.org/annual-meeting/)</strong><br/>
-Virtual Meeting, May 2-5 2020 <br />
-  <em>Presentation title (poster):</em> Silence in the brain: An EEG study of expressive silence <br/>
-  in individual and joint musical action <br/><br/>
+<strong>[Invited talk at Aarhus University Center for Music in the Brain](https://musicinthebrain.au.dk/#news-19033)</strong><br/>
+Dec 9 2020 <br />
+  <em>Presentation title (poster):</em> Let's play together: The cognitive neuroscience of interpersonal synchrony in musical interactionn <br/><br/>
 
 <strong>[The Neurosciences & Music - VII Conference](https://www.fondazione-mariani.org/en/neuromusic7/)</strong><br/>
 Aarhus University, Aarhus, Denmark, June 19-22 2020 - RESCHEDULED FOR 2021 <br />
