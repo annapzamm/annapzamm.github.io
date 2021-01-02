@@ -1,7 +1,7 @@
 ---
 title: Collaborators
 layout: default
-description: Anna Zamm | Postdoctoral Research Fellow | Dept. of Cognitive Science, CEU
+description: Anna Zamm | Marie Skłodowska-Curie Research Fellow | Dept. of Cognitive Science, CEU
 permalink: /collab/
 ---
 
