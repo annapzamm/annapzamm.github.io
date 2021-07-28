@@ -15,7 +15,7 @@ permalink: /pubs/
 
 <p><span style="color: #008080;"><strong>ACADEMIC PUBLICATION LIST</strong></span></p>
 <p><span style="color: #008080;"><strong>2021</strong></span></p>
-<p><strong>Zamm, A.</strong>, Palmer, C., Bauer, A.K.R., Bleichner, M.G., Demos, A.P. &amp; Debener, S. (accepted). Behavioural and neural dynamics of interpersonal synchrony between performing musicians. <em>Frontiers in Human Neuroscience</em>. .</p>
+<p><strong>Zamm, A.</strong>, Palmer, C., Bauer, A.K.R., Bleichner, M.G., Demos, A.P. &amp; Debener, S. (accepted). Behavioural and neural dynamics of interpersonal synchrony between performing musicians. <em>Frontiers in Human Neuroscience</em>. </p>
 <p>Grahn, J., Matke-Bauer, A-K-R., <strong>Zamm, A.</strong> (accepted). Is neural entrainment to rhythms the basis of social bonding through music?  [Commentary on "Music as a coevolved system for social bonding" by Savage et al.].  <em>Behavioral and Brain Sciences</em>. </p>
 <p><span style="color: #008080;"><strong>2020</strong></span></p>
 <p><strong>Zamm, A.</strong>, Debener, S., Konvalinka, I., Sebanz, N., Knoblich, G. (2020). The Sound of Silence: An EEG study of how musicians time pauses in individual and joint music performance.  <em>Social Cognitive and Affective Neuroscience</em>. DOI: https://doi.org/10.1093/scan/nsaa096 </p>
