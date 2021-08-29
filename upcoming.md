@@ -4,9 +4,6 @@ layout: default
 description: Anna Zamm | Marie Skłodowska-Curie Fellow | Dept. of Cognitive Science, CEU
 permalink: /upcoming/
 ---
-<p><strong><span style="color: #008080;">PROJECTS</span></strong></p>
-<strong> [Marie Curie Individual Fellowship Projects](https://www.ceu.edu/jalproject)</strong><br/>
-Social Mind & Body Lab, CEU Vienna, Sep 2020 - Aug 2022 <br />
 
 <p><strong><span style="color: #008080;">SELECT PRESENTATIONS</span></strong></p>
 <strong>[Invited talk at the Aarhus Center for Music in the Brain](https://musicinthebrain.au.dk/#news-19033)</strong><br/>
