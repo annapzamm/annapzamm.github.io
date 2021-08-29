@@ -7,7 +7,7 @@ permalink: /funding/
 
 
 <p><span style="color: #008080;"><strong>SELECT ACADEMIC RESEARCH FUNDING</strong></span></p>
-<p><strong>Marie Skłodowska-Curie Individual fellowship</strong><br />EU Horizon 2020<em>, </em><a href="https://www.ceu.edu/jalproject">https://www.ceu.edu/jalproject</a> (2020 - 2022)</p>
+<p><strong>Marie Skłodowska-Curie Individual fellowship</strong><br />EU Horizon 2020<em>, </em><a href="https://www.ceu.edu/jalproject">https://www.ceu.edu/jalproject</a> (2020 - 2021)</p>
 <p><strong>Lorne Trottier Science Accelerator Fellowship</strong><br />McGill University (2017 – 2018)</p>
 <p><strong>Programme de bourses d'excellence pour étudiants étrangers</strong><br />Fonds de recherche du Québec - Nature et technologies (2015 – 2017)</p>
 <p><strong>Auditory Cognitive Neuroscience Mobility Fellowship</strong><br />Erasmus Mundus Auditory Cognitive Neuroscience Exchange Network (2014-2015)</p>
