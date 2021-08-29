@@ -5,8 +5,6 @@ main:
     url: /pubs/
   - title: "Grants & awards" 
     url: /funding/
-  - title: "Upcoming"
-    url: /upcoming/
   - title: "Collaborators"
     url: /collab/
   - title: "Contact"
