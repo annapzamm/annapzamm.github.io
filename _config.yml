@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Anna Zamm
-email: zamma@ceu.edu
-description: Marie Skłodowska-Curie Fellow | Dept. of Cognitive Science | Central European University
+email: azamm@cc.au.dk
+description: Assistant Professor of Cognitive Science | Aarhus University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000"
 twitter_username: annapzamm
