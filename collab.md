@@ -17,3 +17,5 @@ permalink: /collab/
 [Prof. Caroline Palmer](https://www.mcgill.ca/spl/palmer), McGill University<br/>
 [Dr. Gottfried Schlaug](http://gottfriedschlaug.org/musicianbrain.test/people.php#index), Harvard University <br/>
 [Prof. Natalie Sebanz](https://people.ceu.edu/natalie_sebanz), Central European University<br/>
+[Prof. Cordula Vesper](https://pure.au.dk/portal/en/persons/cordula-vesper(3eca8b0b-e266-444d-a2bd-8754dfd34a85).html), Aarhus University<br/>
+
