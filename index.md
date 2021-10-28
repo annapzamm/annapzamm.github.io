@@ -2,11 +2,11 @@
 layout: default
 ---
 
-I am a tenure-track Assistant Professor of Cognitive Science at [Aarhus University](https://international.au.dk/) (AU). My faculty profile is [here](https://pure.au.dk/portal/en/persons/anna-zamm(34046139-7057-4cae-927d-f2458b279026).html).
+Welcome! I am a [tenure-track Assistant Professor of Cognitive Science](https://pure.au.dk/portal/en/persons/anna-zamm(34046139-7057-4cae-927d-f2458b279026).html) at [Aarhus University](https://international.au.dk/) (AU).
 
-My research broadly addresses what factors allow humans to achieve the remarkable feat of synchronizing actions with one another in group behaviours such as ensemble music performance. I use a combination of behavioural and electroencephalography (EEG) methods to uncover processes underlying interpersonal synchrony. 
+My research takes a cognitive neuroscience approach to investigate how humans synchronize actions with one another in groups, such as when they play music together. I address this question using a combination of behavioural and dual-brain EEG methods.
 
-Prior to joining AU, I was a [Marie Skłodowska-Curie Cognitive Science Postdoctoral Research Fellow](https://www.ceu.edu/jalproject) in the [Social Mind and Body Lab](https://somby.ceu.edu/) at Central European University Vienna, and before that I received my PhD in Psychology from McGill University (research area: [Cognition & Cognitive Neuroscience](https://www.mcgill.ca/psychology/research-0/cognition-cognitive-neuroscience)).
+Prior to joining AU, I was a [Marie Skłodowska-Curie Fellow](https://www.ceu.edu/jalproject) in the [Social Mind and Body Lab](https://somby.ceu.edu/) at [Central European University](https://www.ceu.edu/vienna), and before that I received my PhD in [Psychology](https://www.mcgill.ca/psychology/) from [McGill University](https://www.mcgill.ca/) (research area: [Cognition & Cognitive Neuroscience](https://www.mcgill.ca/psychology/research-0/cognition-cognitive-neuroscience)).
 
 
 <center>
