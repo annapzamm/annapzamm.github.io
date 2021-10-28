@@ -6,6 +6,7 @@ permalink: /upcoming/
 ---
 
 <p><strong><span style="color: #008080;">SELECT PRESENTATIONS</span></strong></p>
+
 <strong>[Invited talk at the Aarhus Center for Music in the Brain](https://musicinthebrain.au.dk/#news-19033)</strong><br/>
 Aarhus University, Denmark, Dec 9 2020 <br />
   <em>Presentation title:</em> Let's play together: The cognitive neuroscience of<br/>interpersonal synchrony in musical interaction <br/><br/>
