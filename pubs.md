@@ -15,6 +15,7 @@ permalink: /pubs/
 
 <p><span style="color: #008080;"><strong>ACADEMIC PUBLICATION LIST</strong></span></p>
 <p><span style="color: #008080;"><strong>2021</strong></span></p>
+<p><strong>Zamm, A., Debener, S., Sebanz, N. </strong> (2021). Learning to take turns together: The spontaneous emergence of rhythmic coordination. DOI: <a href="https://sandbox.zenodo.org/record/949188#.YXrNtJ5BwdV">10.5072/zenodo.949188</a></p>
 <p>Grahn, J., Matke-Bauer, A-K-R., <strong>Zamm, A.</strong> (2021). Is neural entrainment to rhythms the basis of social bonding through music?  [Commentary on "Music as a coevolved system for social bonding" by Savage et al.].  <em>Behavioral and Brain Sciences</em>. DOI: <a href="https://doi.org/10.1017/S0140525X20001296">10.1017/S0140525X20001296</a></p>
 <p><strong>Zamm, A.</strong>, Palmer, C., Bauer, A.K.R., Bleichner, M.G., Demos, A.P. &amp; Debener, S. (2021). Behavioural and neural dynamics of interpersonal synchrony between performing musicians: A wireless EEG hyperscanning study. <em>Frontiers in Human Neuroscience</em>. DOI: <a href="https://doi.org/10.3389/fnhum.2021.717810">10.3389/fnhum.2021.717810</a></p>
 <p><strong>Zamm, A.</strong>, Debener, S.. &amp; Sebanz, N. (2021). Distinct rhythms of joint and individual action: Evidence from an auditory sequence production paradigm.  <em>Proceedings of the Annual Meeting of the Cognitive Science Society, 43</em>. Retrieved from <a href="https://escholarship.org/uc/item/0v0464w3">https://escholarship.org/uc/item/0v0464w3</a></p>
