@@ -14,8 +14,9 @@ permalink: /pubs/
 </ul>
 
 <p><span style="color: #008080;"><strong>ACADEMIC PUBLICATION LIST</strong></span></p>
+<p><span style="color: #008080;"><strong>2022</strong></span></p>
+<p><strong>Zamm, A.</strong>, Debener, S., Sebanz, N. (accepted). Learning to take turns together: The spontaneous emergence of rhythmic coordination. <em>Scientific Reports</em>.</p>
 <p><span style="color: #008080;"><strong>2021</strong></span></p>
-<p><strong>Zamm, A.</strong>, Debener, S., Sebanz, N. (2021). Learning to take turns together: The spontaneous emergence of rhythmic coordination. DOI: <a href="https://sandbox.zenodo.org/record/949188#.YXrNtJ5BwdV">10.5072/zenodo.949188</a></p>
 <p>Grahn, J., Matke-Bauer, A-K-R., <strong>Zamm, A.</strong> (2021). Is neural entrainment to rhythms the basis of social bonding through music?  [Commentary on "Music as a coevolved system for social bonding" by Savage et al.].  <em>Behavioral and Brain Sciences</em>. DOI: <a href="https://doi.org/10.1017/S0140525X20001296">10.1017/S0140525X20001296</a></p>
 <p><strong>Zamm, A.</strong>, Palmer, C., Bauer, A.K.R., Bleichner, M.G., Demos, A.P. &amp; Debener, S. (2021). Behavioural and neural dynamics of interpersonal synchrony between performing musicians: A wireless EEG hyperscanning study. <em>Frontiers in Human Neuroscience</em>. DOI: <a href="https://doi.org/10.3389/fnhum.2021.717810">10.3389/fnhum.2021.717810</a></p>
 <p><strong>Zamm, A.</strong>, Debener, S.. &amp; Sebanz, N. (2021). Distinct rhythms of joint and individual action: Evidence from an auditory sequence production paradigm.  <em>Proceedings of the Annual Meeting of the Cognitive Science Society, 43</em>. Retrieved from <a href="https://escholarship.org/uc/item/0v0464w3">https://escholarship.org/uc/item/0v0464w3</a></p>
@@ -29,6 +30,7 @@ permalink: /pubs/
 <p><strong>Zamm, A.</strong>, Palmer, C., Bauer, A.-K. R., Bleichner, M.G., Demos, A.P., &amp; Debener, S. (2019). Synchronizing MIDI and wireless EEG measurements during natural piano performance.<em> </em><em>Brain Research</em>. DOI: <a href="https://doi.org/10.1016/j.brainres.2017.07.001">10.1016/j.brainres.2017.07.001</a>.</p>
 <p><span style="color: #008080;"><strong>2018</strong></span></p> <a href=""></a>
 <p><strong>Zamm, A.</strong>, Wang, Y., &amp; Palmer, C. (2018). Musicians' natural frequencies of performance display optimal temporal stability. <em>Journal of Biological Rhythms</em>, DOI: <a href="https://doi.org/10.1177/0748730418783651">https://doi.org/10.1177/0748730418783651</a>.</p>
+<p><strong>Zamm, A.</strong>, Debener, S., Bauer, A-K.R., Bleichner, M.G., Demos, A.P., &amp; Palmer, C. (2018). Amplitude envelope correlations measure synchronous cortical oscillations in performing musicians.  <em>Annals of the New York Academy of Sciences </em>. DOI: <a href="https://doi.org/10.1111/nyas.13738">https://doi.org/10.1111/nyas.13738</a>.</p>
 <p>Scheurich, R., <strong>Zamm, A.</strong>, &amp; Palmer, C. (2018). Tapping into rate flexibility: Musical training facilitates synchronization around spontaneous production rates. <em>Frontiers in Psychology</em>, DOI: <a href="https://doi.org/10.3389/fpsyg.2018.00458">10.3389/fpsyg.2018.00458</a></p>
 <p><span style="color: #008080;"><strong>2017</strong></span></p>
 <p>Kominsky, J., <strong>Zamm, A.,</strong> Keil, F. (2017).  Knowing when help is needed: Developing a sense of cognitive complexity. <em>Cognitive Science. </em>DOI: <a href="https://doi.org/10.1111/cogs.12509">10.1111/cogs.12509</a></p>
