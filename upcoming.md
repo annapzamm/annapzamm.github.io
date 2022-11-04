@@ -1,5 +1,5 @@
 ---
-title: Selected talks, conferences, etc.
+title: Talks, conferences, etc.
 layout: default
 description: Anna Zamm | Assistant Prof. of Cognitive Science | Aarhus University
 permalink: /upcoming/
