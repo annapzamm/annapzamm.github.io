@@ -4,7 +4,7 @@ layout: default
 description: Anna Zamm | Assistant Prof. of Cognitive Science | Aarhus University
 permalink: /upcoming/
 ---
-<strong>PAST</strong><br />
+<strong>PAST</strong></br>
 <strong>Invited talk in the Neuropsychology Lab, University of Oldenburg </strong><br/> 
 Oldenburg, Germany, August 26 2022 <br /> 
 
