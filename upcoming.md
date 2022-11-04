@@ -7,7 +7,7 @@ permalink: /upcoming/
 <strong>PAST</strong><br/>
 
 <strong>Invited talk in the Neuropsychology Lab, University of Oldenburg </strong><br/> 
-Oldenburg, Germany, August 26 2022  </strong><br/>  
+Oldenburg, Germany, August 26 2022 <br/>  
 
 <strong>[Invited talk at the Interacting Minds Center](https://interactingminds.au.dk/events/single-events/artikel/rhythms-of-social-motor-coordination), Aarhus University </strong><br/> 
 Aarhus, Denmark, August 23 2022 <br /> 
