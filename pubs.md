@@ -15,7 +15,7 @@ permalink: /pubs/
 
 <p><span style="color: #008080;"><strong>ACADEMIC PUBLICATION LIST</strong></span></p>
 <p><span style="color: #008080;"><strong>2022</strong></span></p>
-<p><strong>Zamm, A.</strong>, Debener, S., Sebanz, N. (accepted). Learning to take turns together: The spontaneous emergence of rhythmic coordination. <em>Scientific Reports</em>.</p>
+<p><strong>Zamm, A.</strong>, Debener, S., Sebanz, N. (2023). Learning to take turns together: The spontaneous emergence of rhythmic coordination. <em>Scientific Reports</em>.  DOI: <a href="https://doi.org/10.1038/s41598-022-18480-6">10.1038/s41598-022-18480-6</a></p></p>
 <p><span style="color: #008080;"><strong>2021</strong></span></p>
 <p>Grahn, J., Matke-Bauer, A-K-R., <strong>Zamm, A.</strong> (2021). Is neural entrainment to rhythms the basis of social bonding through music?  [Commentary on "Music as a coevolved system for social bonding" by Savage et al.].  <em>Behavioral and Brain Sciences</em>. DOI: <a href="https://doi.org/10.1017/S0140525X20001296">10.1017/S0140525X20001296</a></p>
 <p><strong>Zamm, A.</strong>, Palmer, C., Bauer, A.K.R., Bleichner, M.G., Demos, A.P. &amp; Debener, S. (2021). Behavioural and neural dynamics of interpersonal synchrony between performing musicians: A wireless EEG hyperscanning study. <em>Frontiers in Human Neuroscience</em>. DOI: <a href="https://doi.org/10.3389/fnhum.2021.717810">10.3389/fnhum.2021.717810</a></p>
