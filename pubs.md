@@ -15,6 +15,7 @@ permalink: /pubs/
 
 <p><span style="color: #008080;"><strong>ACADEMIC PUBLICATION LIST</strong></span></p>
 <p><span style="color: #008080;"><strong>2023</strong></span></p>
+<p><strong>Zamm, A.</strong>, Loehr, J. D., Vesper, C., Konvalinka, I., Kappel, S. L., Heggli, O. A., Vuust, P., Keller, P. E. (2023, April 24). A Practical Guide to EEG Hyperscanning in Joint Action Research: From Motivation to Implementation. DOI:<a href="https://doi.org/10.31234/osf.io/fy4kn">10.31234/osf.io/fy4kn</a></p>
 <p><strong>Zamm, A.</strong>, Debener, S., Sebanz, N. (2023). The spontaneous emergence of rhythmic coordination in turn taking. <em>Scientific Reports</em>.  DOI: <a href="https://doi.org/10.1038/s41598-022-18480-6">10.1038/s41598-022-18480-6</a></p>
 <p><span style="color: #008080;"><strong>2021</strong></span></p>
 <p>Grahn, J., Matke-Bauer, A-K-R., <strong>Zamm, A.</strong> (2021). Is neural entrainment to rhythms the basis of social bonding through music?  [Commentary on "Music as a coevolved system for social bonding" by Savage et al.].  <em>Behavioral and Brain Sciences</em>. DOI: <a href="https://doi.org/10.1017/S0140525X20001296">10.1017/S0140525X20001296</a></p>
