@@ -19,6 +19,6 @@ permalink: /collab/
 [Prof. Natalie Sebanz](https://people.ceu.edu/natalie_sebanz), Central European University<br/>
 [Prof. Cordula Vesper](https://pure.au.dk/portal/en/persons/cordula-vesper(3eca8b0b-e266-444d-a2bd-8754dfd34a85).html), Aarhus University<br/>
 [Assistant Prof. Simon Lind Kappel](https://pure.au.dk/portal/da/persons/slk%40ece.au.dk), Aarhus University<br/>
-[Prof. Janeen Loehr](https://artsandscience.usask.ca/profile/JLoehr), Aarhus University<br/>
+[Prof. Janeen Loehr](https://artsandscience.usask.ca/profile/JLoehr), University of Saskatchewan<br/>
 
 
