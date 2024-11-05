@@ -6,7 +6,7 @@ permalink: /collab/
 ---
 
 <span style="color: #008080;"><strong> KEY COLLABORATORS (PAST &amp; PRESENT) </strong></span><br/><br/>
-[Dr. Anna-Katharina Bauer](https://www.psy.ox.ac.uk/team/anna-katharina-matke-bauer), University of Oxford<br/>
+[Dr. Anna-Katharina Bauer](https://www.psy.ox.ac.uk/team/anna-katharina-matke-bauer), Royal Holloway University<br/>
 [Dr. Martin Bleichner](https://uol.de/psychologie/neurophysiologie-des-alltags-emmy-noether-gruppe/team/dr-martin-bleichner), University of Oldenburg<br/>
 [Prof. Stefan Debener](https://uol.de/neuropsychologie/team/prof-dr-stefan-debener), University of Oldenburg <br/>
 [Prof. Alexander Demos](http://alexanderdemos.org/), University of Illinois at Chicago <br/>
