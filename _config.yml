@@ -20,7 +20,7 @@
 
 title: Anna Zamm
 email: azamm@cc.au.dk
-description: Assistant Professor of Cognitive Science, Aarhus University
+description: Associate Professor of Cognitive Science, Aarhus University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "localhost:4000"
 twitter_username: annapzamm
@@ -37,7 +37,7 @@ link_type: jurl
 google_analytics: [UA-158536983-1]
 
 copyright:            
-  © 2024. Anna Zamm. All rights reserved.
+  © 2025. Anna Zamm. All rights reserved.
 
 # Exclude from processing.
 # The following items will not be processed, by default.
