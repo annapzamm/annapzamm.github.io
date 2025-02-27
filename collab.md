@@ -1,7 +1,7 @@
 ---
 title: Collaborators
 layout: default
-description: Anna Zamm | Assoc. Prof. of Cognitive Science | Aarhus University
+description: Anna Zamm | Assoc. Prof. in Cognitive Science | Aarhus University
 permalink: /collab/
 ---
 
