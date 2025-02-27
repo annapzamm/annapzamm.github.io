@@ -1,7 +1,7 @@
 ---
 title: Scientific publications
 layout: default
-description: Anna Zamm | Assistant Prof. of Cognitive Science | Aarhus University
+description: Anna Zamm | Assoc. Prof. of Cognitive Science | Aarhus University
 permalink: /pubs/
 ---
 
