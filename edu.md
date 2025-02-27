@@ -5,13 +5,17 @@ description: Anna Zamm | Assoc. Prof. of Cognitive Science | Aarhus University
 permalink: /edu/
 
 ---
-<p><strong><span style="color: #008080;">CURRENT EMPLOYMENT</span></strong></p>
-
-<strong> Tenure-track Assistant Professor of Cognitive Science </strong>(2021 - present) <br/>
+<p><strong><span style="color: #008080;">CURRENT POSITION</span></strong></p>
+<strong> Assoc. Professor in Cognitive Science (with tenure) </strong>(2024 - present) <br/>
 [Department of Linguistics, Cognitive Science, and Semiotics](https://cc.au.dk/en/about-the-school/departments/linguistics-cognitive-science-and-semiotics/)<br/>
 [Aarhus University](https://international.au.dk/), Aarhus, DK, EU<br/>
 
-<p><strong><span style="color: #008080;">POSTDOCTORAL EMPLOYMENT</span></strong></p>
+
+<p><strong><span style="color: #008080;">PREVIOUS POSITIONS</span></strong></p>
+
+<strong> Tenure-track Assistant Professor in Cognitive Science </strong>(2021 - 2024) <br/>
+[Department of Linguistics, Cognitive Science, and Semiotics](https://cc.au.dk/en/about-the-school/departments/linguistics-cognitive-science-and-semiotics/)<br/>
+[Aarhus University](https://international.au.dk/), Aarhus, DK, EU<br/>
 
 <strong> Marie Curie Individual Research Fellow </strong>(2020-21) <br/>
 <em>Host Lab</em>: [Social Mind and Body Lab](https://socialmind.ceu.edu/somby) <br/>
