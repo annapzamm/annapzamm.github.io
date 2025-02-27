@@ -6,6 +6,7 @@ permalink: /edu/
 
 ---
 <p><strong><span style="color: #008080;">CURRENT POSITION</span></strong></p>
+
 <strong> Assoc. Professor in Cognitive Science (with tenure) </strong>(2024 - present) <br/>
 [Department of Linguistics, Cognitive Science, and Semiotics](https://cc.au.dk/en/about-the-school/departments/linguistics-cognitive-science-and-semiotics/)<br/>
 [Aarhus University](https://international.au.dk/), Aarhus, DK, EU<br/>
